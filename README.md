@@ -1,3 +1,25 @@
+
+
+
+
+
+
+<p align="center">
+  <b><i>Let's connect! Find me on the web.</i></b>
+
+   [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+   [<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
+   [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+   <a href="mailto:saini.nirdesh.kumar@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+   <br />
+   <hr />
+
+
+
+
+
+
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <br>👋, I'm Nirdesh Kumar Saini</h1>
 <h3 align="center">|| On a mission to code 2 hours every day for 365 days || GFG & Hackerrank Coder || MERN Stack Web Developer ||</h3>
 
@@ -41,4 +63,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirdeshkumar02&show_icons=true&locale=en" alt="nirdeshkumar02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirdeshkumar02&" alt="nirdeshkumar02" /></p>
+
+
+
+
+
+
+
+
+[linkedin]: https://www.linkedin.com/in/nirdeshkumar02/
+[Facebook]: https://www.facebook.com/nirdeshkumar02
+[twitter]: https://twitter.com/nirdeshkumar02
+[gmail]: https://gmail.com
+
 
